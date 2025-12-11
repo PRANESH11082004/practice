@@ -1,1 +1,0 @@
-from now on i am going to use react from frontend
